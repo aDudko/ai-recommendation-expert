@@ -1,0 +1,26 @@
+{
+  "basic-skills": [""],
+  "experience": [
+    {
+      "start-data": "",
+      "end-data": "",
+      "company-title": "",
+      "position": "",
+      "description": "",
+      "achievement": "",
+      "tech-stack": [""],
+      "skills": {
+        "industry-knowledge": [""]
+      }
+    }
+  ],
+  "education": "",
+  "certificates": [
+    {
+      "title": "",
+      "start-data": "",
+      "end-data": "",
+      "skills": [""]
+    }
+  ]
+}
