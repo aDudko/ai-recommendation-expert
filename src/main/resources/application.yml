@@ -28,5 +28,4 @@ sfg:
     vectorStorePath: /tmp/vector-store.json
     documentsToLoad:
       - classpath:/cv.json
-      # list of vacancies
-      - https://www.epam.com/careers/job-listings?country=all&relocation=true&remote=true
+      - classpath:/vacancies.txt
