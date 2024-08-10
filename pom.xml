@@ -11,9 +11,9 @@
     </parent>
 
     <groupId>org.adudko.project</groupId>
-    <artifactId>recommendation-expert</artifactId>
+    <artifactId>ai-recommendation-expert</artifactId>
     <version>0.0.1</version>
-    <name>recommendation-expert</name>
+    <name>ai-recommendation-expert</name>
 
     <properties>
         <lombok.version>1.18.34</lombok.version>
